@@ -1,0 +1,14 @@
+F:\programming folder\four_mouths_job_prep\c#\collections\bin\Debug\net8.0\collections.exe
+F:\programming folder\four_mouths_job_prep\c#\collections\bin\Debug\net8.0\collections.deps.json
+F:\programming folder\four_mouths_job_prep\c#\collections\bin\Debug\net8.0\collections.runtimeconfig.json
+F:\programming folder\four_mouths_job_prep\c#\collections\bin\Debug\net8.0\collections.dll
+F:\programming folder\four_mouths_job_prep\c#\collections\bin\Debug\net8.0\collections.pdb
+F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\collections.AssemblyInfoInputs.cache
+F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\collections.AssemblyInfo.cs
+F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\collections.csproj.CoreCompileInputs.cache
+F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\collections.dll
+F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\refint\collections.dll
+F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\collections.pdb
+F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\collections.genruntimeconfig.cache
+F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\ref\collections.dll
