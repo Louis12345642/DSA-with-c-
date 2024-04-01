@@ -12,3 +12,4 @@ F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\refin
 F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\collections.pdb
 F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\collections.genruntimeconfig.cache
 F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\ref\collections.dll
+F:\programming folder\four_mouths_job_prep\c#\collections\obj\Debug\net8.0\collections.sourcelink.json

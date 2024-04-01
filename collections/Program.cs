@@ -1,5 +1,6 @@
 ﻿using System;
 using collections.ArrayLists.Questions;
+
 using Collections;
 namespace Program
 {
@@ -48,6 +49,13 @@ namespace Program
 
             int[] nums = new int[]{2,7,11,15};
             Console.WriteLine(ts.TwoSum(nums,target));
+
+
+            //calling the array test bed in the main classs
+        
+            
+
+            
 
 
         }
